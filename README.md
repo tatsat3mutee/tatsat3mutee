@@ -16,8 +16,8 @@
 ## 🧠 What I'm Working On
 
 - **MTech Dissertation** — *Adaptive Ensemble Drift Detection (AEDD)* for telecom churn prediction using IBM Telco + Maven Analytics datasets. Combines XGBoost, ADWIN, Page-Hinkley, KSWIN, and ensemble drift scoring with MLflow tracking and a Streamlit dashboard.
-- **GitHub Copilot Enablement** — Leading Advanced Agent Mode & Integrated Browser training sessions for ~200 developers and testers in an AT&T Gen AI Developer Enablement program at IBM.
-- **BillingLM** — Internal knowledge workspace for a 15+ microservice telecom Billing Gateway (BGW) team, built on PostgreSQL + ChromaDB + Unstructured.io + Claude API.
+- **GitHub Copilot Enablement** — Leading Advanced Agent Mode & Integrated Browser training sessions for ~200 developers and testers across a large-scale Gen AI Developer Enablement program at IBM.
+- **BillingLM** — Internal knowledge workspace for a telecom billing microservices team, built on PostgreSQL + ChromaDB + Unstructured.io + Claude API.
 
 ---
 
@@ -28,7 +28,7 @@
 | [multiagent-rag-telecom-billing-rca](https://github.com/tatsat3mutee/multiagent-rag-telecom-billing-rca) | Multi-agent RAG system for telecom billing anomaly root cause analysis | LangGraph · ChromaDB · MLflow · IsolationForest · Streamlit |
 | [AskRag](https://github.com/tatsat3mutee/AskRag) | Retrieval-augmented Q&A over custom document corpora | Python · RAG · FastAPI |
 | Smart Self-Healing RPA Bot *(IBM Techathon)* | LangGraph-based bot for telecom order fallout detection, AI-driven RCA, auto-retry, and human approval gates | LangGraph · FastAPI · Streamlit · ChromaDB |
-| AT&T Contract PDF Intelligence | Extracts pricing tables from Switched Ethernet Service PDFs into MySQL for billing discrepancy detection | PyMuPDF · Docling · Tesseract · Redis/rq |
+| Telecom Contract PDF Intelligence | Extracts pricing tables from service contract PDFs into MySQL for billing discrepancy detection | PyMuPDF · Docling · Tesseract · Redis/rq |
 
 ---
 
@@ -76,7 +76,7 @@
 
 ## 📌 Domain Depth
 
-I work in **telecom billing** — CDR processing, mediation, rating engines, invoice generation, and BGW microservice architecture. Most of my applied AI work is grounded in this domain: anomaly detection, churn prediction, contract intelligence, and RAG-based knowledge systems for billing teams.
+I work in **telecom billing** — CDR processing, mediation, rating engines, invoice generation, and billing microservice architecture. Most of my applied AI work is grounded in this domain: anomaly detection, churn prediction, contract intelligence, and RAG-based knowledge systems for billing teams.
 
 ---
 
